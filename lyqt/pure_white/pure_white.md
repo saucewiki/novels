@@ -5,7 +5,7 @@
 * 自娱自乐 
 * 请勿上升蒸煮
 
-- [纯白](#--)
+- [目录](#--)
   * [1](#1)
   * [2](#2)
   * [3](#3)
@@ -28,9 +28,7 @@
   * [20](#20)
   * [21](#21)
   * [21.1](#211)
-- [THE END](#the-end)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## 1
